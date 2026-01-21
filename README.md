@@ -5,7 +5,7 @@
 ---
 
 ## Project Overview
-This project delivers an **end-to-end Tableau analytics solution** developed to support business stakeholders with clear, actionable insight. The work spans **requirements definition, KPI design, analytical logic, interactivity, and user-focused dashboard design**, ensuring the final output is both decision-ready and scalable..
+This project delivers an **end-to-end Tableau analytics solution** developed to support business stakeholders with clear, actionable insight. The work spans **requirements definition, KPI design, analytical logic, interactivity, and UX-driven dashboard layout**, ensuring the final output is decision-ready and scalable.
 
 The solution consists of two integrated dashboards:
 - **Sales Dashboard**
@@ -15,10 +15,19 @@ Both dashboards are driven by **Year-over-Year (YoY) analysis**, allowing users 
 
 ---
 
+## Live Dashboard Access
+
+🔗 **Tableau Public (Interactive Dashboards):**  
+`[PLACEHOLDER – insert Tableau Public profile or dashboard link here]`
+
+> The dashboards can be explored interactively via Tableau Public, including full filtering, navigation, and tooltip functionality.
+
+---
+
 ## Dashboard Preview
 
 ### Sales Dashboard
-*Overview of sales performance, trends, and product contribution*
+📌 *Overview of sales performance, trends, and product contribution*
 
 <!-- IMAGE PLACEHOLDER: Sales Dashboard (Full View) -->
 ![Sales Dashboard – Full View](images/sales_dashboard_full.png)
@@ -26,7 +35,7 @@ Both dashboards are driven by **Year-over-Year (YoY) analysis**, allowing users 
 ---
 
 ### Customer Dashboard
-*Analysis of customer behaviour, distribution, and value contribution*
+📌 *Analysis of customer behaviour, distribution, and value contribution*
 
 <!-- IMAGE PLACEHOLDER: Customer Dashboard (Full View) -->
 ![Customer Dashboard – Full View](images/customer_dashboard_full.png)
@@ -49,7 +58,8 @@ All analysis follows a **Dimensions vs Measures** framework to ensure clarity, c
 - Total Sales
 - Total Profit
 - Total Quantity  
-Each KPI shows:
+
+Each KPI displays:
 - Current year value
 - Previous year comparison
 - Directional indicators (▲ / ▼)
@@ -190,6 +200,19 @@ Each KPI shows:
 
 ---
 
+## Insights & Observations
+📌 *Placeholder for analytical findings derived from the dashboards.*
+
+Examples:
+- Key revenue-driving categories and subcategories
+- Seasonal sales patterns and weekly performance behaviour
+- Customer segments contributing disproportionate profit
+- Differences between high-volume and high-value customers
+
+`[PLACEHOLDER – insert insights once analysis is finalised]`
+
+---
+
 ## Tools Used
 - Tableau Desktop / Tableau Public
 - CSV Flat Files
@@ -202,12 +225,3 @@ Each KPI shows:
 2. Navigate dashboards via the **icon buttons**
 3. Open the **filter panel** to refine results
 4. Click charts and tables to apply interactive filters
-
----
-
-## Portfolio Value
-This project demonstrates:
-- Translating business requirements into analytical dashboards
-- Structuring insights using dimensions and measures
-- Implementing advanced Tableau calculations and interactivity
-- Designing executive-ready BI dashboards with strong UX
