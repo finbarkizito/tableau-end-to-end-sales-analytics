@@ -3,7 +3,6 @@
 > 📊 **Interactive business intelligence dashboards built in Tableau with a strong focus on extracting business insights.**
 
 ---
-
 ## Project Overview
 This project delivers an **end-to-end Tableau analytics solution** designed to support business stakeholders with clear, actionable insight.  
 The work spans **requirements definition, KPI design, analytical logic, interactivity, and UX-driven dashboard layout**
