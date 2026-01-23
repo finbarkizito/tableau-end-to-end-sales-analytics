@@ -15,7 +15,7 @@ The work spans **requirements definition, KPI design, analytical logic, interact
 Each component below links to a dedicated Markdown file explaining the **analytical approach, KPIs, and insights** behind the visuals.
 
 - 📈 **[Sales Dashboard – Performance & Trends](sales/sales_dashboard.md)**
-- 👥 **[Customer Dashboard – Behaviour & Value](PLACEHOLDER_customer_dashboard.md)**
+- 👥 **[Customer Dashboard – Behaviour & Value](customers/customer-dasboard.md)**
 - 📊 **[Customer Distribution by Number of Orders](PLACEHOLDER_customer_distribution.md)**
 - 🏆 **[Top Ten Customers Analysis](PLACEHOLDER_top_ten_customers.md)**
 ---
