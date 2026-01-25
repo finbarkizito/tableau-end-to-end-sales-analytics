@@ -1,4 +1,4 @@
-# 📊 Customer Distribution by Number of Orders  
+# Customer Distribution by Number of Orders  
 **Analytical Deep Dive: Purchase Frequency & Retention**
 
 ---
