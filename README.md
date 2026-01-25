@@ -1,6 +1,6 @@
 # End To End Tableau Business Intelligence Project 
 
-> 📊 **Interactive business intelligence dashboards built in Tableau with a strong focus on extracting business insights.**
+> **Interactive business intelligence dashboards built in Tableau with a strong focus on extracting business insights.**
 
 ---
 ## Project Overview
