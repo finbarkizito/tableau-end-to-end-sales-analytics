@@ -1,4 +1,4 @@
-# 👥 Customer Analytics Dashboard  
+# Customer Analytics Dashboard  
 **Segmentation & Behaviour Analysis**
 
 ---
