@@ -58,7 +58,7 @@ To support accurate analysis, the following steps were applied within Tableau:
 
 ### Visual Structure
 - **BANs (Big Numbers):**  
-  Headline KPIs for Sales, Profit, and Quantity with directional YoY indicators.
+  Headline KPIs for Sales, Profit, and Quantity with directional Year-On-Year indicators.
 - **Monthly Sparklines:**  
   Trend lines with automatically highlighted **minimum and maximum** months.
 - **Subcategory Comparison:**  
