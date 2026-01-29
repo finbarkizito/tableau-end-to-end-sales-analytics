@@ -42,7 +42,7 @@ The analysis follows a consistent **Dimensions vs Measures** framework to ensure
 ### Sales Dashboard
 *Overview of sales performance, trends, and product contribution*
 
-![Sales Dashboard – Full View](images/sales_dashboard_full.png)
+![Sales Dashboard – Full View](images/sales-dashboard.png)
 
 ---
 
