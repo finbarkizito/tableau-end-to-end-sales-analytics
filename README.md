@@ -49,7 +49,7 @@ The analysis follows a consistent **Dimensions vs Measures** framework to ensure
 ### Customer Dashboard
 *Analysis of customer behaviour, distribution, and value contribution*
 
-![Customer Dashboard – Full View](images/customer_dashboard_full.png)
+![Customer Dashboard – Full View](images/customer-dashboard.png)
 
 ---
 
